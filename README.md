@@ -1,2 +1,2 @@
 # netflixdata
-Netflix data 
+Netflix data project
